@@ -2,11 +2,15 @@ body {
     background-color: blueviolet;
 }
 
+h1 {
+    text-align: center;
+}
+
 p {
     text-align: center;
     font-size: 20px;
 }
 
-em strong {
+p em {
     color: red;
 }

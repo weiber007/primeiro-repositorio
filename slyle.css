@@ -6,6 +6,11 @@ img{
     width: 100%;
 }
 
+.apresentacao {
+    background: #ccc;
+    padding: 30px;
+}
+
 h1 {
     text-align: center;
 }
@@ -17,4 +22,13 @@ p {
 
 em strong {
     color: red;
+}
+
+.beneicioss {
+    background: #fff;
+    padding: 20px;    
+}
+
+h2 {
+    text-align: center;
 }
